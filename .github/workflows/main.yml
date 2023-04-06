@@ -22,7 +22,7 @@ jobs:
           node-version: 16
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       - name: Generate the snake
         run: npx snk --github_user_name itsrensei-dev --gif_out_path dist/github-contribution-grid-snake.gif --svg_out_path dist/github-contribution-grid-snake.svg
