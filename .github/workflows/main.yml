@@ -16,13 +16,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Generate the snake
-        uses: Platane/snk@master
-        id: snake-gif
+      - name: Set up Node.js 16
+        uses: actions/setup-node@v2
         with:
-          github_user_name: itsrensei-dev
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          node-version: 16
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate the snake
+        run: npx snk --github_user_name itsrensei-dev --gif_out_path dist/github-contribution-grid-snake.gif --svg_out_path dist/github-contribution-grid-snake.svg
 
       - name: Show build status
         run: git status
@@ -32,7 +35,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
-          force: true
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
