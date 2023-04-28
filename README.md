@@ -55,7 +55,7 @@
 <h3>
 ┌──┤ PROJECTS ├─────────▢▢▢
 │
-├─▢ <a href="https://github.com/itsrensei-dev/#">My Front-End Portfolio</a>
+├─▢ <a href="https://github.com/itsrensei/#">My Front-End Portfolio</a>
 │
 └───────────────────────────────▢▢▢
 </h3>
@@ -87,7 +87,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsrensei-dev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=itsrensei-dev&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrensei&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=itsrensei&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
