@@ -47,6 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="22" width="31" alt="wordpress logo"  />
 </div>
 
+<br clear="both">
+
 <pre>
 <h3>
 ┌──┤ PROJECTS ├─────────▢▢▢
