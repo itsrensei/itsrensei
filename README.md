@@ -47,10 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="22" width="31" alt="wordpress logo"  />
 </div>
 
-<br clear="both">
-
-<img src="https://github.com/itsrensei-dev/itsrensei-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 <pre>
 <h3>
 ┌──┤ PROJECTS ├─────────▢▢▢
