@@ -1,10 +1,9 @@
-name: My Workflow
+name: Snake Eating Contribution Graph
 
 on:
   push:
-    branches: [main]
-  pull_request:
-    branches: [main]
+    branches:
+      - main
 
 jobs:
   build:
@@ -13,20 +12,17 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Set up Node.js 16.x
-        uses: actions/setup-node@v2.4.0
-        with:
-          node-version: '16.x'
+      - name: Configure git user
+        run: |
+          git config --global user.name "Dolezar Mabunda"
+          git config --global user.email "itsrensei@gmail.com"
 
-      - name: Install dependencies
-        run: npm install
-
-      - name: Build
-        run: npm run build
-
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4.2.0
-        with:
-          build_dir: dist
-          target_branch: gh-pages
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Modify contribution graph
+        run: |
+          # Create a new style element with the snake-eating CSS
+          echo '<style>.js-calendar-graph-svg{transform:rotate(-45deg);}.ContributionCalendar-day{transform:rotate(45deg)!important;transform-origin:50% 50%;}</style>' > style.css
+          
+          # Commit and push the changes
+          git add style.css
+          git commit -m "Add snake-eating contribution graph"
+          git push origin main
