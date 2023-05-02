@@ -48,6 +48,9 @@
 </div>
 
 <br clear="both">
+<img src="https://raw.githubusercontent.com/itsrensei/itsrensei/output/snake.svg" alt="Snake animation" />
+
+###
 
 <pre>
 <h3>
