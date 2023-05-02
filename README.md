@@ -2,7 +2,7 @@
 <h3>
 ┌──┤ DASHBOARD ├─────────▢▢▢
 │
-├─▢ Hi, I am Dolezar Mabunda A.K.A Rensei Emiko
+├─▢ Hi, I am Dolezar Mabunda, "Rensei Emiko'
 ├─▢ Ux Designer and Front-End Developer.
 ├─▢ From South Africa, Johannesburg.
 ├─▢ Interested in Front-End Development, User Experience Design and AI.
