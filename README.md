@@ -53,6 +53,7 @@
 <h3>
 ┌──┤ PROJECTS ├─────────▢▢▢
 │
+├─▢ <a href="https://github.com/itsrensei/html5.git">html5</a>
 ├─▢ <a href="https://github.com/itsrensei/#">My Front-End Portfolio</a>
 │
 └───────────────────────────────▢▢▢
