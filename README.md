@@ -75,9 +75,15 @@
 
 <br clear="both">
 
+<br clear="both">
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsrensei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsrensei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=codeSTACKr&hide_border=false&order=2" height="120" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=itsrensei&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrensei&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsrensei&locale=en&hide_title=true&layout=default &card_width=320&langs_count=20&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=itsrensei&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
 
