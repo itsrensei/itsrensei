@@ -96,7 +96,7 @@
 <h2>
 ┌──┤ PROJECTS ├─────────▢▢▢
 │
-├─▢ <a href="https://github.com/itsrensei/html5.git">html5</a>
+├─▢ <a href="https://github.com/itsrensei/beerus_castle.git">beerus_castle</a>
 ├─▢ <a href="https://github.com/itsrensei/#">My Portfolio</a>
 │
 └───────────────────────────────▢▢▢
