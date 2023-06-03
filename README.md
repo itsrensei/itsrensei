@@ -93,14 +93,14 @@
 <br clear="both">
 
 <pre>
-<h2>
+<h3>
 ┌──┤ PROJECTS ├─────────▢▢▢
 │
 ├─▢ <a href="https://github.com/itsrensei/beerus_castle.git">beerus_castle</a>
 ├─▢ <a href="https://github.com/itsrensei/#">My Portfolio</a>
 │
 └───────────────────────────────▢▢▢
-</h2>
+</h3>
 </pre>
 
 <pre>
