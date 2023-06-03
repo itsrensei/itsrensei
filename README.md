@@ -104,7 +104,7 @@
 </pre>
 
 <pre>
-<h2>
+<h3>
 ┌──┤ GET IN TOUCH ├─────────▢▢▢
 │
 ├─▢ <a href="https://www.linkedin.com/in/#">LinkedIn</a>
@@ -113,7 +113,7 @@
 ├─▢ <a href="https://www.linkedin.com/in/#">Telegram</a>
 │
 └───────────────────────────────▢▢▢
-</h2>
+</h3>
 </pre>
 
 <br clear="both">
