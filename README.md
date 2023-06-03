@@ -20,7 +20,7 @@
 
 ###
 <pre>
-<h2>
+<h3>
 ┌──┤ DASHBOARD ├─────────▢▢▢
 │
 ├─▢ Hi, I am Dolezar Mabunda,
@@ -30,7 +30,7 @@
 ├─▢ I love Music, Tech, Anime and Science Fiction.
 │
 └───────────────────────────────▢▢▢
-</h2>
+</h3>
 </pre>
 <br clear="both">
 
