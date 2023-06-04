@@ -11,6 +11,7 @@
 └───────────────────────────────▢▢▢
 </h3>
 </pre>
+
 <br clear="both">
 
 <h3 align="center">Languages and Tools ├─────────▢▢▢</h3>
@@ -70,6 +71,7 @@
 </div>
 
 ###
+
 <br clear="both">
 
 <div align="center">
@@ -113,23 +115,6 @@
 └───────────────────────────────▢▢▢
 </h3>
 </pre>
-
-<pre>
-<h3>
-┌──┤ GET IN TOUCH ├─────────▢▢▢
-│
-├─▢ <a href="https://www.linkedin.com/in/#">LinkedIn</a>
-├─▢ <a href="https://twitter.com/itsrensei_dev">Twitter</a>
-├─▢ <a href="https://www.instagram.com/itsrensei_dev">Instagram</a>
-├─▢ <a href="https://www.linkedin.com/in/#">Telegram</a>
-│
-└───────────────────────────────▢▢▢
-</h3>
-</pre>
-
-<br clear="both">
-
-<br clear="both">
 
 <br clear="both">
 
