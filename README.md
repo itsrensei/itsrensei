@@ -107,7 +107,7 @@
 
 <pre>
 <h3>
-┌──┤ PROJECTS ├───────────────────────────────────────────────────▢▢▢
+┌──┤ PROJECTS ├─────────────────────────────────────────────────────────────▢▢▢
 ├─▢ <a href="https://github.com/itsrensei/100_days_of_code">#100DaysOfCode</a>
 ├─▢ <a href="https://github.com/itsrensei/beerus_castle.git">beerus_castle</a>
 ├─▢ <a href="https://github.com/itsrensei/#">My Portfolio</a>
