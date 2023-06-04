@@ -1,6 +1,6 @@
 <pre>
 <h3>
-┌──┤ DASHBOARD ├─────────▢▢▢
+┌──┤ DASHBOARD ├───────────────────────────────────────────────────────────▢▢▢
 │
 ├─▢ Hi, I am Dolezar Mabunda,
 ├─▢ Front-End Developer.
@@ -8,7 +8,7 @@
 ├─▢ Interested in Front-End Development, User Experience Design and AI.
 ├─▢ I love Music, Tech, Anime and Science Fiction.
 │
-└───────────────────────────────▢▢▢
+└──────────────────────────────────────────────────────────────────────────▢▢▢
 </h3>
 </pre>
 
@@ -107,21 +107,21 @@
 
 <pre>
 <h3>
-┌──┤ PROJECTS ├─────────▢▢▢
-│
-│ 
-├─▢ ACADEMIC
+┌──┤ PROJECTS ├───────────────────────────────────────────────────▢▢▢
 ├─▢ <a href="https://github.com/itsrensei/100_days_of_code">#100DaysOfCode</a>
 ├─▢ <a href="https://github.com/itsrensei/beerus_castle.git">beerus_castle</a>
-│
-│
-├─▢ PERSONAL
 ├─▢ <a href="https://github.com/itsrensei/#">My Portfolio</a>
-│
-│
-├─▢ OPEN SOURCE
-│
-└───────────────────────────────▢▢▢
+└───────────────────────────────────────────────────────────────────────────▢▢▢
+</h3>
+</pre>
+
+<pre>
+<h3>
+┌──┤ OPEN-SOURCE ├──────────────────────────────────────────────────────────▢▢▢
+├─▢ <a href="https://github.com/itsrensei/100_days_of_code">#100DaysOfCode</a>
+├─▢ <a href="https://github.com/itsrensei/beerus_castle.git">beerus_castle</a>
+├─▢ <a href="https://github.com/itsrensei/#">My Portfolio</a>
+└───────────────────────────────────────────────────────────────────────────▢▢▢
 </h3>
 </pre>
 
