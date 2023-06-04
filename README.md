@@ -24,7 +24,7 @@
 ┌──┤ DASHBOARD ├─────────▢▢▢
 │
 ├─▢ Hi, I am Dolezar Mabunda,
-├─▢ Ux Designer and Front-End Developer.
+├─▢ Front-End Developer.
 ├─▢ From South Africa, Johannesburg.
 ├─▢ Interested in Front-End Development, User Experience Design and AI.
 ├─▢ I love Music, Tech, Anime and Science Fiction.
