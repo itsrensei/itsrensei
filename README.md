@@ -34,7 +34,7 @@
 </pre>
 <br clear="both">
 
-<h2 align="center">Languages and Tools ├─────────▢▢▢</h2>
+<h3 align="center">Languages and Tools ├─────────▢▢▢</h3>
 <br clear="both">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="35" alt="ubuntu logo"  />
