@@ -109,8 +109,16 @@
 <h3>
 ┌──┤ PROJECTS ├─────────▢▢▢
 │
+│
+├─▢ ACADEMIC
 ├─▢ <a href="https://github.com/itsrensei/beerus_castle.git">beerus_castle</a>
+│
+│
+├─▢ PERSONAL
 ├─▢ <a href="https://github.com/itsrensei/#">My Portfolio</a>
+│
+│
+├─▢ OPEN SOURCE
 │
 └───────────────────────────────▢▢▢
 </h3>
