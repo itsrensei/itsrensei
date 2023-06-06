@@ -108,8 +108,9 @@
 <pre>
 <h3>
 ┌──┤ PROJECTS ├─────────────────────────────────────────────────────────────▢▢▢
-├─▢ <a href="https://github.com/itsrensei/100_days_of_code">#100DaysOfCode</a>
-├─▢ <a href="https://github.com/itsrensei/beerus_castle.git">beerus_castle</a>
+├─▢ <a href="https://github.com/itsrensei/100_days_of_code.git">My Coding Journey</a>
+├─▢ <a href="https://github.com/itsrensei/zero_day.git">Zero Day</a>
+├─▢ <a href="https://github.com/itsrensei/beerus_castle.git">Beerus Castle Responsive Website</a>
 ├─▢ <a href="https://github.com/itsrensei/#">My Portfolio</a>
 └───────────────────────────────────────────────────────────────────────────▢▢▢
 </h3>
