@@ -108,10 +108,13 @@
 <pre>
 <h3>
 ┌──┤ PROJECTS ├─────────────────────────────────────────────────────────────▢▢▢
+│
 ├─▢ <a href="https://github.com/itsrensei/100_days_of_code.git">My Coding Journey</a>
-├─▢ <a href="https://github.com/itsrensei/zero_day.git">Zero Day</a>
+├─▢ <a href="https://github.com/itsrensei/alx-system_engineering-devops.git">Systems Engineering - DevOps</a>
+├─▢ <a href="https://github.com/itsrensei/#">C Programming</a>
 ├─▢ <a href="https://github.com/itsrensei/beerus_castle.git">Beerus Castle Responsive Website</a>
 ├─▢ <a href="https://github.com/itsrensei/#">My Portfolio</a>
+│
 └───────────────────────────────────────────────────────────────────────────▢▢▢
 </h3>
 </pre>
@@ -119,9 +122,9 @@
 <pre>
 <h3>
 ┌──┤ OPEN-SOURCE ├──────────────────────────────────────────────────────────▢▢▢
-├─▢ <a href="https://github.com/itsrensei/100_days_of_code">#100DaysOfCode</a>
-├─▢ <a href="https://github.com/itsrensei/beerus_castle.git">beerus_castle</a>
-├─▢ <a href="https://github.com/itsrensei/#">My Portfolio</a>
+│
+├─▢ <a href="https://github.com/itsrensei/#">Coming Soon!</a>
+│
 └───────────────────────────────────────────────────────────────────────────▢▢▢
 </h3>
 </pre>
@@ -129,7 +132,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsrensei&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=itsrensei&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsrensei&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=itsrensei&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
